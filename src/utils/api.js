@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://unofficial-otakudesu-api-me.vercel.app/api/";
+const API_BASE_URL = "https://unofficial-otakudesu-api-me.vercel.app/";
 
 /**
  * Fetch data from the given endpoint
